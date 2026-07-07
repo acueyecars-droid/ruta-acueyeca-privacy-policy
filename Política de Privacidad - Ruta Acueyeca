@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - Ruta Acueyeca</title>
+
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            max-width: 1000px;
+            margin: auto;
+            padding: 30px;
+            line-height: 1.8;
+            color:#333;
+            background:#f5f5f5;
+        }
+
+        .container{
+            background:white;
+            padding:40px;
+            border-radius:10px;
+            box-shadow:0 0 10px rgba(0,0,0,.15);
+        }
+
+        h1{
+            color:#1565C0;
+            text-align:center;
+        }
+
+        h2{
+            color:#0D47A1;
+            margin-top:35px;
+            border-bottom:2px solid #1565C0;
+            padding-bottom:5px;
+        }
+
+        h3{
+            color:#1976D2;
+        }
+
+        ul{
+            margin-left:25px;
+        }
+
+        strong{
+            color:#0D47A1;
+        }
+
+        footer{
+            margin-top:40px;
+            text-align:center;
+            color:gray;
+            font-size:14px;
+        }
+
+        .fecha{
+            text-align:center;
+            color:#666;
+            margin-bottom:30px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Política de Privacidad</h1>
+
+<h2 style="text-align:center;border:none;">Ruta Acueyeca</h2>
+
+<p class="fecha">
+<strong>Última actualización:</strong> Julio de 2026
+</p>
+
+<h2>1. Introducción</h2>
+
+<p>
+Ruta Acueyeca es una aplicación desarrollada para la administración, monitoreo y gestión de unidades de transporte. Su objetivo es facilitar el seguimiento de recorridos, la administración de usuarios, el control operativo de las unidades y el registro de incidencias durante la prestación del servicio.
+</p>
+
+<p>
+La presente Política de Privacidad explica cómo se recopilan, utilizan, almacenan y protegen los datos personales de los usuarios que utilizan la aplicación.
+</p>
+
+<p>
+Al utilizar Ruta Acueyeca, el usuario acepta el tratamiento de su información conforme a esta Política de Privacidad.
+</p>
+
+<p>
+La aplicación únicamente recopila la información necesaria para ofrecer sus servicios y no utiliza los datos personales para fines publicitarios, comerciales o de marketing.
+</p>
+
+<hr>
+
+<h2>2. Responsable del tratamiento de los datos</h2>
+
+<p>
+El responsable del tratamiento de los datos personales es la organización o administrador encargado de operar Ruta Acueyeca.
+</p>
+
+<p>
+Para cualquier consulta relacionada con la privacidad o protección de datos personales, los usuarios podrán comunicarse mediante el correo electrónico oficial indicado en el apartado de contacto.
+</p>
+
+<hr>
+
+<h2>3. Información recopilada</h2>
+
+<h3>Información de identificación</h3>
+
+<ul>
+
+<li>Nombre completo.</li>
+
+<li>Correo electrónico.</li>
+
+<li>Identificador único del usuario.</li>
+
+<li>Fotografía de perfil (cuando sea proporcionada).</li>
+
+<li>Información necesaria para autenticación.</li>
+
+</ul>
+
+<h3>Información laboral</h3>
+
+<ul>
+
+<li>Rol del usuario (Administrador, Chofer o Checkpoint).</li>
+
+<li>Unidad asignada.</li>
+
+<li>Estado operativo.</li>
+
+<li>Historial de asignaciones.</li>
+
+</ul>
+
+<h3>Información de ubicación</h3>
+
+<ul>
+
+<li>Ubicación GPS precisa.</li>
+
+<li>Coordenadas geográficas.</li>
+
+<li>Fecha y hora de cada registro.</li>
+
+<li>Historial de recorridos.</li>
+
+<li>Checkpoints.</li>
+
+<li>Entradas y salidas de geocercas.</li>
+
+<li>Desviaciones de ruta.</li>
+
+</ul>
+
+<h3>Información sobre incidencias</h3>
+
+<ul>
+
+<li>Tipo de incidencia.</li>
+
+<li>Descripción.</li>
+
+<li>Fotografías.</li>
+
+<li>Fecha y hora.</li>
+
+<li>Ubicación.</li>
+
+<li>Usuario que realizó el reporte.</li>
+
+</ul>
+
+<h3>Información técnica</h3>
+
+<ul>
+
+<li>Modelo del dispositivo.</li>
+
+<li>Sistema operativo.</li>
+
+<li>Versión de la aplicación.</li>
+
+<li>Dirección IP.</li>
+
+<li>Registros de errores.</li>
+
+<li>Información de rendimiento.</li>
+
+</ul>
+
+<hr>
+
+<h2>4. Finalidad del tratamiento de la información</h2>
+
+<p>La información recopilada se utiliza únicamente para:</p>
+
+<ul>
+
+<li>Monitorear unidades en tiempo real.</li>
+
+<li>Registrar recorridos.</li>
+
+<li>Detectar retrasos.</li>
+
+<li>Detectar desvíos de ruta.</li>
+
+<li>Registrar el paso por checkpoints.</li>
+
+<li>Administrar usuarios.</li>
+
+<li>Gestionar incidencias.</li>
+
+<li>Generar reportes administrativos.</li>
+
+<li>Generar estadísticas operativas.</li>
+
+<li>Mejorar el funcionamiento y estabilidad del sistema.</li>
+
+<li>Brindar soporte técnico.</li>
+
+<li>Cumplir obligaciones legales cuando sea necesario.</li>
+
+</ul>
+
+<p>
+Ruta Acueyeca no vende, alquila ni utiliza la información personal para publicidad personalizada.
+</p>
+
+<hr>
+
+<h2>5. Permisos utilizados</h2>
+
+<h3>Ubicación precisa</h3>
+
+<p>
+Se utiliza para monitorear las unidades durante el servicio, registrar recorridos, verificar checkpoints, detectar desviaciones de ruta y generar reportes administrativos.
+</p>
+
+<h3>Cámara</h3>
+
+<p>
+Se utiliza para capturar evidencia fotográfica de incidencias reportadas por los usuarios.
+</p>
+
+<h3>Internet</h3>
+
+<p>
+Permite sincronizar la información con la base de datos, autenticar usuarios y mantener actualizada la información del sistema.
+</p>
+
+<h3>Almacenamiento</h3>
+
+<p>
+Puede utilizarse para seleccionar o guardar imágenes relacionadas con incidencias cuando sea necesario.
+</p>
+
+<hr>
+
+<h2>6. Compartición de datos</h2>
+
+<p>
+Ruta Acueyeca no vende, alquila ni comparte información personal con terceros para fines comerciales o publicitarios.
+</p>
+
+<p>
+Los datos únicamente podrán compartirse en los siguientes casos:
+</p>
+
+<ul>
+
+<li>Con administradores autorizados.</li>
+
+<li>Con personal autorizado de la organización.</li>
+
+<li>Cuando exista obligación legal.</li>
+
+<li>Cuando una autoridad competente lo requiera.</li>
+
+<li>Con proveedores tecnológicos indispensables para el funcionamiento de la aplicación.</li>
+
+</ul>
+
+<hr>
+
+<h2>7. Servicios de terceros</h2>
+
+<p>
+La aplicación utiliza servicios externos para proporcionar algunas funcionalidades.
+</p>
+
+<ul>
+
+<li><strong>Supabase:</strong> autenticación, almacenamiento y administración de la base de datos.</li>
+
+<li><strong>Mapbox:</strong> mapas, rutas, geolocalización y geocercas.</li>
+
+</ul>
+
+<p>
+Estos proveedores únicamente procesan la información necesaria para ofrecer sus servicios y cuentan con sus propias políticas de privacidad.
+</p>
+
+<hr>
+
+<h2>8. Seguridad de la información</h2>
+
+<p>
+Ruta Acueyeca implementa diversas medidas de seguridad para proteger la información almacenada.
+</p>
+
+<ul>
+
+<li>Autenticación de usuarios.</li>
+
+<li>Control de acceso por roles.</li>
+
+<li>Conexiones seguras HTTPS.</li>
+
+<li>Base de datos protegida mediante Supabase.</li>
+
+<li>Políticas Row Level Security (RLS).</li>
+
+<li>Protección contra accesos no autorizados.</li>
+
+<li>Registros de actividad del sistema.</li>
+
+</ul>
+
+<p>
+Aunque se aplican medidas de seguridad razonables, ningún sistema puede garantizar una protección absoluta frente a amenazas informáticas.
+</p>
+
+<hr>
+
+<h2>9. Conservación de los datos</h2>
+
+<p>
+Los datos personales serán conservados únicamente durante el tiempo necesario para cumplir con las finalidades descritas en esta política o mientras exista una relación activa con la organización.
+</p>
+
+<p>
+Cuando ya no sean necesarios, podrán eliminarse o anonimizarse conforme a la legislación aplicable.
+</p>
+
+<hr>
+
+<h2>10. Derechos ARCO de los usuarios</h2>
+
+<p>
+De conformidad con la legislación mexicana aplicable en materia de protección de datos personales, los usuarios podrán ejercer sus <strong>Derechos ARCO</strong>:
+</p>
+
+<ul>
+
+<li><strong>Acceso:</strong> conocer qué información personal almacena la aplicación.</li>
+
+<li><strong>Rectificación:</strong> corregir datos incorrectos o desactualizados.</li>
+
+<li><strong>Cancelación:</strong> solicitar la eliminación de los datos cuando sea legalmente procedente.</li>
+
+<li><strong>Oposición:</strong> oponerse al tratamiento de sus datos personales en los casos permitidos por la ley.</li>
+
+</ul>
+
+<p>
+Además, los usuarios podrán:
+</p>
+
+<ul>
+
+<li>Solicitar información sobre el tratamiento de sus datos.</li>
+
+<li>Actualizar su información personal.</li>
+
+<li>Solicitar la limitación del tratamiento de datos cuando corresponda.</li>
+
+<li>Presentar consultas relacionadas con la privacidad de su información.</li>
+
+</ul>
+
+<p>
+Las solicitudes deberán realizarse mediante el administrador del sistema o utilizando el correo electrónico oficial de soporte.
+</p>
+
+<hr>
+
+<h2>11. Eliminación de cuentas y datos</h2>
+
+<p>
+Los usuarios podrán solicitar la eliminación de su cuenta y de la información asociada a ella comunicándose con el administrador del sistema.
+</p>
+
+<p>
+Una vez verificada la identidad del solicitante, la organización procederá a eliminar o anonimizar los datos personales cuando sea legalmente procedente, conservando únicamente aquellos registros que deban mantenerse por obligaciones legales, administrativas o de auditoría.
+</p>
+
+<hr>
+
+<h2>12. Menores de edad</h2>
+
+<p>
+Ruta Acueyeca está dirigida exclusivamente al personal autorizado de la organización responsable del servicio de transporte.
+</p>
+
+<p>
+La aplicación no está destinada para menores de edad ni recopila intencionalmente información personal de menores.
+</p>
+
+<hr>
+
+<h2>13. Cambios a esta Política de Privacidad</h2>
+
+<p>
+Ruta Acueyeca podrá actualizar esta Política de Privacidad para incorporar mejoras al sistema, nuevas funcionalidades o cambios en la legislación aplicable.
+</p>
+
+<p>
+La versión más reciente estará disponible para consulta dentro de la aplicación o en el sitio web oficial.
+</p>
+
+<hr>
+
+<h2>14. Contacto</h2>
+
+<p>
+Si tiene preguntas sobre esta Política de Privacidad o desea ejercer sus Derechos ARCO, puede comunicarse con el administrador de Ruta Acueyeca.
+</p>
+
+<p>
+
+<strong>Correo electrónico:</strong> soporte@rutaacueyeca.com
+
+<br><br>
+
+<strong>Responsable:</strong> Administrador de Ruta Acueyeca
+
+</p>
+
+</div>
+
+<footer>
+
+© 2026 Ruta Acueyeca. Todos los derechos reservados.
+
+</footer>
+
+</body>
+</html>
